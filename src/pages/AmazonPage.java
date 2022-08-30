@@ -3,6 +3,7 @@ package pages;
 public class AmazonPage {
     //html for menu
 
-    //html for seach button
+    //html for search button
 
+    //html for deals pages
 }
